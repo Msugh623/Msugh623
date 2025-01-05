@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a passionate developer and creator of **Sprintet**. I specialize in delivering cutting-edge software solutions, with a strong focus on agile development and innovative tech. Whether it’s building robust applications or exploring emerging fields like AI and machine learning, I’m always pushing the boundaries of what’s possible.
 
-Here, you’ll find a range of projects — from web development and design to experimental tech solutions — all aimed at solving real-world problems and enhancing productivity.
+Here, you’ll find a range of projects ranging from web development to software development and design to experimental tech solutions all aimed at solving real-world problems and enhancing productivity.
 
 ---
 
