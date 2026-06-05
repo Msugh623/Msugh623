@@ -1,42 +1,420 @@
-# 👋 Hi, I'm Chia Ernest!
+# Hi, I'm Ernest Msugh Chia 
 
-Welcome to my GitHub! I’m a passionate developer and creator of **Sprintet**. I specialize in delivering cutting-edge software solutions, with a strong focus on agile development and innovative tech. Whether it’s building robust applications or exploring emerging fields like AI and machine learning, I’m always pushing the boundaries of what’s possible.
+Also known online as **msugh623**.
 
-Here, you’ll find a range of projects ranging from web development to software development and design to experimental tech solutions all aimed at solving real-world problems and enhancing productivity.
+I'm a software developer and the Founder & CEO of **SprintET**, a startup building a modular ecosystem of high-performance system utilities focused on local networking, system orchestration, and developer infrastructure.
 
----
+## About SprintET
 
-## 🌱 Currently Working On:
-- 🚀 **Sprintet**: Developing innovative software solutions with a strong focus on agile development methodologies. Sprintet is dedicated to helping businesses grow through high-quality, scalable software that streamlines workflows and enhances productivity. Our commitment to continuous improvement and efficient execution ensures top-notch results.
-- 🤖 **AI & Machine Learning Exploration**: Diving into AI and machine learning to discover new ways these technologies can be applied to solve real-world problems and drive innovation.
+SprintET serves as the architectural foundation for a growing suite of lean, purpose-built software tools.
 
----
+The goal is to move away from bloated, one-size-fits-all middleware and instead build focused systems that integrate directly into how users and organizations already operate. Each product is designed to reduce complexity, improve performance, and give users greater control over their hardware and data.
 
-## 💻 Skills & Tools:
-- **Languages**: JavaScript, Python, HTML/CSS, Bash  
-- **Frameworks & Libraries**: React, ReactJS, Node.js, Express  
-- **Tools & Platforms**: Git, Visual Studio Code, Bash, Render, Google Cloud, GitHub Actions  
-- **Other Skills**: Agile Development, Full-Stack Web Development, UX/UI Design
+## FSdiscover
 
----
+**FSdiscover** is the flagship product of SprintET.
 
-## 🎯 My Interests:
-- Full-stack web development  
-- AI and machine learning  
-- Building productivity tools  
-- UX/UI design and user experience optimization  
-- Open-source contributions and collaborative projects  
-- Software architecture and scalable solutions
+It is a lightweight, cross-platform tool that enables seamless interaction between devices on the same network (Wi-Fi or LAN). It supports fast and simple file sharing across multiple devices, whether between a phone and a PC or across an entire network of connected systems.
 
----
+FSdiscover is built around an “install once, use everywhere” model, making local device discovery, connection, and file transfer as seamless as possible.
 
-## 🚀 Let's Collaborate!
-I’m always open to collaboration on projects related to innovative software development, AI, or any creative technology solutions. If you're passionate about solving real-world problems with technology, let’s connect and build something great together!
+## Vision
 
----
+We are building a modular ecosystem of system utilities designed to eliminate unnecessary friction in digital workflows.
 
-## 📫 Get in Touch:
-- **Website**: [sprintet.onrender.com](https://sprintet.onrender.com)  
-- **LinkedIn**: [Chia Ernest](https://ng.linkedin.com/in/chia-ernest-b923962a9)  
-- **Email**: [iternenge469@gmail.com](mailto:iternenge469@gmail.com)  
-- **GitHub**: [My GitHub](https://github.com/ChiaErnest)
+Every product follows the same principle:
+reduce complexity, improve efficiency, and give users direct control over their systems.
+
+The long-term goal is to create a unified suite of tools that simplifies how people and businesses interact with their digital environments.
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* Bash
+* HTML/CSS
+
+**Frontend**
+
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Google Cloud
+* Render
+
+## Interests
+
+* Systems design and architecture
+* Developer tools
+* Distributed systems
+* Full-stack web development
+* Open-source software
+* User experience in technical systems
+
+## Connect
+
+* Website: https://sprintet.onrender.com
+* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* GitHub: https://github.com/ChiaErnest
+# Hi, I'm Ernest Msugh Chia 👋
+
+Also known online as **msugh623**.
+
+I'm a software developer and the Founder & CEO of **SprintET**, a startup building a modular ecosystem of high-performance system utilities focused on local networking, system orchestration, and developer infrastructure.
+
+## About SprintET
+
+SprintET serves as the architectural foundation for a growing suite of lean, purpose-built software tools.
+
+The goal is to move away from bloated, one-size-fits-all middleware and instead build focused systems that integrate directly into how users and organizations already operate. Each product is designed to reduce complexity, improve performance, and give users greater control over their hardware and data.
+
+## FSdiscover
+
+**FSdiscover** is the flagship product of SprintET.
+
+It is a lightweight, cross-platform tool that enables seamless interaction between devices on the same network (Wi-Fi or LAN). It supports fast and simple file sharing across multiple devices, whether between a phone and a PC or across an entire network of connected systems.
+
+FSdiscover is built around an “install once, use everywhere” model, making local device discovery, connection, and file transfer as seamless as possible.
+
+## Vision
+
+We are building a modular ecosystem of system utilities designed to eliminate unnecessary friction in digital workflows.
+
+Every product follows the same principle:
+reduce complexity, improve efficiency, and give users direct control over their systems.
+
+The long-term goal is to create a unified suite of tools that simplifies how people and businesses interact with their digital environments.
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* Bash
+* HTML/CSS
+
+**Frontend**
+
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Google Cloud
+* Render
+
+## Interests
+
+* Systems design and architecture
+* Developer tools
+* Distributed systems
+* Full-stack web development
+* Open-source software
+* User experience in technical systems
+
+## Connect
+
+* Website: https://sprintet.onrender.com
+* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* GitHub: https://github.com/ChiaErnest
+# Hi, I'm Ernest Msugh Chia 👋
+
+Also known online as **msugh623**.
+
+I'm a software developer and the Founder & CEO of **SprintET**, a startup building a modular ecosystem of high-performance system utilities focused on local networking, system orchestration, and developer infrastructure.
+
+## About SprintET
+
+SprintET serves as the architectural foundation for a growing suite of lean, purpose-built software tools.
+
+The goal is to move away from bloated, one-size-fits-all middleware and instead build focused systems that integrate directly into how users and organizations already operate. Each product is designed to reduce complexity, improve performance, and give users greater control over their hardware and data.
+
+## FSdiscover
+
+**FSdiscover** is the flagship product of SprintET.
+
+It is a lightweight, cross-platform tool that enables seamless interaction between devices on the same network (Wi-Fi or LAN). It supports fast and simple file sharing across multiple devices, whether between a phone and a PC or across an entire network of connected systems.
+
+FSdiscover is built around an “install once, use everywhere” model, making local device discovery, connection, and file transfer as seamless as possible.
+
+## Vision
+
+We are building a modular ecosystem of system utilities designed to eliminate unnecessary friction in digital workflows.
+
+Every product follows the same principle:
+reduce complexity, improve efficiency, and give users direct control over their systems.
+
+The long-term goal is to create a unified suite of tools that simplifies how people and businesses interact with their digital environments.
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* Bash
+* HTML/CSS
+
+**Frontend**
+
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Google Cloud
+* Render
+
+## Interests
+
+* Systems design and architecture
+* Developer tools
+* Distributed systems
+* Full-stack web development
+* Open-source software
+* User experience in technical systems
+
+## Connect
+
+* Website: https://sprintet.onrender.com
+* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* GitHub: https://github.com/ChiaErnest
+# Hi, I'm Ernest Msugh Chia 👋
+
+Also known online as **msugh623**.
+
+I'm a software developer and the Founder & CEO of **SprintET**, a startup building a modular ecosystem of high-performance system utilities focused on local networking, system orchestration, and developer infrastructure.
+
+## About SprintET
+
+SprintET serves as the architectural foundation for a growing suite of lean, purpose-built software tools.
+
+The goal is to move away from bloated, one-size-fits-all middleware and instead build focused systems that integrate directly into how users and organizations already operate. Each product is designed to reduce complexity, improve performance, and give users greater control over their hardware and data.
+
+## FSdiscover
+
+**FSdiscover** is the flagship product of SprintET.
+
+It is a lightweight, cross-platform tool that enables seamless interaction between devices on the same network (Wi-Fi or LAN). It supports fast and simple file sharing across multiple devices, whether between a phone and a PC or across an entire network of connected systems.
+
+FSdiscover is built around an “install once, use everywhere” model, making local device discovery, connection, and file transfer as seamless as possible.
+
+## Vision
+
+We are building a modular ecosystem of system utilities designed to eliminate unnecessary friction in digital workflows.
+
+Every product follows the same principle:
+reduce complexity, improve efficiency, and give users direct control over their systems.
+
+The long-term goal is to create a unified suite of tools that simplifies how people and businesses interact with their digital environments.
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* Bash
+* HTML/CSS
+
+**Frontend**
+
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Google Cloud
+* Render
+
+## Interests
+
+* Systems design and architecture
+* Developer tools
+* Distributed systems
+* Full-stack web development
+* Open-source software
+* User experience in technical systems
+
+## Connect
+
+* Website: https://sprintet.onrender.com
+* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* GitHub: https://github.com/ChiaErnest
+# Hi, I'm Ernest Msugh Chia 👋
+
+Also known online as **msugh623**.
+
+I'm a software developer and the Founder & CEO of **SprintET**, a startup building a modular ecosystem of high-performance system utilities focused on local networking, system orchestration, and developer infrastructure.
+
+## About SprintET
+
+SprintET serves as the architectural foundation for a growing suite of lean, purpose-built software tools.
+
+The goal is to move away from bloated, one-size-fits-all middleware and instead build focused systems that integrate directly into how users and organizations already operate. Each product is designed to reduce complexity, improve performance, and give users greater control over their hardware and data.
+
+## FSdiscover
+
+**FSdiscover** is the flagship product of SprintET.
+
+It is a lightweight, cross-platform tool that enables seamless interaction between devices on the same network (Wi-Fi or LAN). It supports fast and simple file sharing across multiple devices, whether between a phone and a PC or across an entire network of connected systems.
+
+FSdiscover is built around an “install once, use everywhere” model, making local device discovery, connection, and file transfer as seamless as possible.
+
+## Vision
+
+We are building a modular ecosystem of system utilities designed to eliminate unnecessary friction in digital workflows.
+
+Every product follows the same principle:
+reduce complexity, improve efficiency, and give users direct control over their systems.
+
+The long-term goal is to create a unified suite of tools that simplifies how people and businesses interact with their digital environments.
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* Bash
+* HTML/CSS
+
+**Frontend**
+
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Google Cloud
+* Render
+
+## Interests
+
+* Systems design and architecture
+* Developer tools
+* Distributed systems
+* Full-stack web development
+* Open-source software
+* User experience in technical systems
+
+## Connect
+
+* Website: https://sprintet.onrender.com
+* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* GitHub: https://github.com/ChiaErnest
+# Hi, I'm Ernest Msugh Chia 👋
+
+Also known online as **msugh623**.
+
+I'm a software developer and the Founder & CEO of **SprintET**, a startup building a modular ecosystem of high-performance system utilities focused on local networking, system orchestration, and developer infrastructure.
+
+## About SprintET
+
+SprintET serves as the architectural foundation for a growing suite of lean, purpose-built software tools.
+
+The goal is to move away from bloated, one-size-fits-all middleware and instead build focused systems that integrate directly into how users and organizations already operate. Each product is designed to reduce complexity, improve performance, and give users greater control over their hardware and data.
+
+## FSdiscover
+
+**FSdiscover** is the flagship product of SprintET.
+
+It is a lightweight, cross-platform tool that enables seamless interaction between devices on the same network (Wi-Fi or LAN). It supports fast and simple file sharing across multiple devices, whether between a phone and a PC or across an entire network of connected systems.
+
+FSdiscover is built around an “install once, use everywhere” model, making local device discovery, connection, and file transfer as seamless as possible.
+
+## Vision
+
+We are building a modular ecosystem of system utilities designed to eliminate unnecessary friction in digital workflows.
+
+Every product follows the same principle:
+reduce complexity, improve efficiency, and give users direct control over their systems.
+
+The long-term goal is to create a unified suite of tools that simplifies how people and businesses interact with their digital environments.
+
+## Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* Bash
+* HTML/CSS
+
+**Frontend**
+
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Google Cloud
+* Render
+
+## Interests
+
+* Systems design and architecture
+* Developer tools
+* Distributed systems
+* Full-stack web development
+* Open-source software
+* User experience in technical systems
+
+## Connect
+
+* Website: https://sprintet.onrender.com
+* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* GitHub: https://github.com/ChiaErnest
