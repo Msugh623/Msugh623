@@ -66,7 +66,7 @@ The long-term goal is to create a unified suite of tools that simplifies how peo
 ## Connect
 
 * Website: https://sprintet.onrender.com
-* LinkedIn: https://ng.linkedin.com/in/chia-ernest-b923962a9
+* LinkedIn: https://www.linkedin.com/in/msugh623
 * GitHub: https://github.com/msugh623
 
 
