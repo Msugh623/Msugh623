@@ -63,10 +63,14 @@ The long-term goal is to create a unified suite of tools that simplifies how peo
 * Open-source software
 * User experience in technical systems
 
-## Connect
+## Connect with me
 
-* Website: https://sprintet.onrender.com
+* Website: https://sprintet.com/contact
 * LinkedIn: https://www.linkedin.com/in/msugh623
 * GitHub: https://github.com/msugh623
 
+## Connect with SprintET
+
+* Website: https://sprintet.com
+* LinkedIn: https://www.linkedin.com/company/sprintet
 
