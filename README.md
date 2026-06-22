@@ -33,13 +33,16 @@ The long-term goal is to create a unified suite of tools that simplifies how peo
 
 * JavaScript
 * Python
+* C
 * Bash
+* Batch
 * HTML/CSS
 
 **Frontend**
 
 * React
 * Next.js
+* vue.js
 
 **Backend**
 
@@ -62,6 +65,10 @@ The long-term goal is to create a unified suite of tools that simplifies how peo
 * Full-stack web development
 * Open-source software
 * User experience in technical systems
+
+## See FSdiscover 
+
+https://fsdiscover.sprintet.com
 
 ## Connect with me
 
