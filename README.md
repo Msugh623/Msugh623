@@ -1,4 +1,4 @@
-# Ernest Msugh Chia (msugh623) - Full-Stack Web developer & software developer
+# Ernest Msugh Chia (msugh623) - FullStack Web developer & software developer
 
 I am a Full-Stack Web developer & software developer and Computer Engineering student at Joseph Sarwuan Tarka University, Makurdi. I build lean, bloat-free utilities that solve real problems. I am an active member of the BenueTech Foundation and the founder of the software startup **SprintET**.
 
